@@ -1,3 +1,4 @@
+![GWynneth (3)](https://github.com/GwynnethQuinaso/GwynnethQuinaso/assets/142654020/505b47ba-2550-46b5-824e-acec5e69aafc)
 
 
 <h1 align="center">Hi 👋, I'm Gwynneth I. Quinaso</h1>
