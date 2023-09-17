@@ -1,4 +1,4 @@
-![GWynneth (3)](https://github.com/GwynnethQuinaso/Gwynneth-Quinaso/assets/142654020/a28e55be-184f-403f-a834-7d2b8e6f7994)
+
 
 <h1 align="center">Hi 👋, I'm Gwynneth I. Quinaso</h1>
 <h3 align="center">A passionate Graphic Designer from the Philippines.As a dedicated student, my pursuit of Information Technology is driven by a passion for innovation and a deep fascination with the digital realm. I thrive on the ever-evolving nature of this field, where each day brings new challenges and opportunities for growth. With an insatiable curiosity, I eagerly dive into the intricacies of coding languages, network systems, and cybersecurity protocols. I see Information Technology as not merely a career path but a journey of continuous learning and adaptation. From building intricate software applications to ensuring the security of digital infrastructures, I am committed to mastering the technical skills necessary to thrive in this dynamic field. Through rigorous coursework, hands-on projects, and a thirst for knowledge, I aim to contribute to the digital transformation of our world and make a lasting impact on the technology landscape.</h3>
