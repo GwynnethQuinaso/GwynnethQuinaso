@@ -1,15 +1,15 @@
 ![GWynneth (3)](https://github.com/GwynnethQuinaso/GwynnethQuinaso/assets/142654020/505b47ba-2550-46b5-824e-acec5e69aafc)
 
 
-<h1 align="center">Hi 👋, I'm Gwynneth I. Quinaso</h1>
+<h1 align="center"> Gwynneth I. Quinaso at your service.</h1>
 
 <h3>Dedicated student and passionate graphic designer from the Philippines. My interest in information technology is fueled by my desire to innovate and my strong fascination with the digital world. I love how our industry is constantly changing and how every day brings with it fresh obstacles and chances to develop. I eagerly delve into the complexities of coding languages, network architectures, and cybersecurity protocols because I have an obsessive curiosity about them. I view the field of information technology as a journey of constant learning and adaptation rather than just a professional path. I'm dedicated to acquiring the technical abilities required to succeed in this dynamic sector, from creating complex software programs to guaranteeing the security of digital infrastructures.</h3>
 
-- 💬 Ask me about **my experience,created projects and more.**
+
 
 - 📫 How to reach me **gwynnethquinaso.spus@gmail.com**
 
-- ⚡ Fun fact **I am friendly.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
